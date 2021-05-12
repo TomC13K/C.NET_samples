@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace C.NET_samples
+namespace LINQ
 {
     class Program
     {
